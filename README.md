@@ -2,7 +2,9 @@
 
 This project is a web-based home security system that uses facial recognition to identify known and unknown individuals in real-time. It features a dashboard to monitor the camera feed, view detection logs, and receive alerts for potential intrusions.
 
-## 🚀 Features
+![Hero-Section](image.png)
+
+##  Features
 
 -   **Real-time Facial Recognition**: Identifies known individuals and flags unknown faces from a live webcam feed.
 -   **Web-Based Dashboard**: A Streamlit-powered dashboard to monitor the system.
@@ -13,7 +15,9 @@ This project is a web-based home security system that uses facial recognition to
 -   **Data Export**: Export detection data to a CSV file.
 -   **Frontend Landing Page**: A React-based landing page providing information about the security system.
 
-## 🏛️ Architecture
+![Dashboard](dashboard.png)
+
+##  Architecture
 
 The project is composed of three main parts:
 
@@ -146,3 +150,4 @@ These instructions will get you a copy of the project up and running on your loc
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
 ```
+
